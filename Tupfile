@@ -1,0 +1,2 @@
+: *.conf |> cat %f > %o |> XCompose
+.gitignore
